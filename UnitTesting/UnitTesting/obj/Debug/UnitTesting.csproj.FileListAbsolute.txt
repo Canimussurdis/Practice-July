@@ -1,0 +1,7 @@
+C:\Git\Practice-July\UnitTesting\UnitTesting\obj\Debug\UnitTesting.csproj.AssemblyReference.cache
+C:\Git\Practice-July\UnitTesting\UnitTesting\obj\Debug\UnitTesting.csproj.CoreCompileInputs.cache
+C:\Git\Practice-July\UnitTesting\UnitTesting\bin\Debug\UnitTesting.exe.config
+C:\Git\Practice-July\UnitTesting\UnitTesting\bin\Debug\UnitTesting.exe
+C:\Git\Practice-July\UnitTesting\UnitTesting\bin\Debug\UnitTesting.pdb
+C:\Git\Practice-July\UnitTesting\UnitTesting\obj\Debug\UnitTesting.exe
+C:\Git\Practice-July\UnitTesting\UnitTesting\obj\Debug\UnitTesting.pdb
